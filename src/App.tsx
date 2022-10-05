@@ -1,6 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import './examples/composite';
+import './examples/abstract_factory';
+import './examples/adapter';
+import './examples/builder';
+import './examples/observer';
+import './examples/mediator';
 
 function App() {
   return (
